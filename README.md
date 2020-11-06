@@ -17,3 +17,15 @@ Evaluation Metric:
 The evaluation metric for this competition is Root Mean Squared Error (RMSE)
 
 https://datahack.analyticsvidhya.com/contest/janatahack-machine-learning-for-iot/#ProblemStatement
+
+
+
+Description
+
+ID; Unique ID
+
+DateTime; Hourly Datetime Variable
+
+Junction; Junction Type
+
+Vehicles; Number of Vehicles (Target)
